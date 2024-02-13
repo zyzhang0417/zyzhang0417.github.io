@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 乔一
+title: 王丹阳
 
 # Name pronunciation (optional)
 name_pronunciation: DanYang Wang
@@ -31,9 +31,9 @@ profiles:
     url: 'mailto:dyshmilysky1991@gmail.com'
     label: E-mail Me
   - icon: brands/red
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.xiaohongshu.com/user/profile/56f368c384edcd3aa415403f
+  - icon: brands/weibo
+    url: https://weibo.com/u/1825131183
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: brands/google-scholar
