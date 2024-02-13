@@ -6,8 +6,8 @@ title: 乔一
 name_pronunciation: DanYang Wang
 
 # Full name (for SEO)
-first_name: DanY
-last_name: Yang
+first_name: DanYang
+last_name: Wang
 
 # Status emoji
 status:
@@ -28,9 +28,9 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:dyshmilysky1991@gmail.com'
     label: E-mail Me
-  - icon: brands/x
+  - icon: brands/red
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
@@ -46,6 +46,4 @@ profiles:
     label: Download my resume
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+王丹阳，你可以叫我「乔一」。91年出生于邯郸.河北.中国，天蝎座。
