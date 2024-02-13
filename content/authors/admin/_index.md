@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: 前大厂打工仔，现民宿老板
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: 中国传媒大学
     url: https://www.stanford.edu/
 
 # Social Networking
