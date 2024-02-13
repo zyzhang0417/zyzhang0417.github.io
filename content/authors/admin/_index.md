@@ -32,7 +32,7 @@ profiles:
     label: E-mail Me
   - icon: brands/red
     url: https://www.xiaohongshu.com/user/profile/56f368c384edcd3aa415403f
-  - icon: brands/weibo
+  - icon: brands/wb
     url: https://weibo.com/u/1825131183
   - icon: brands/linkedin
     url: https://www.linkedin.com/
